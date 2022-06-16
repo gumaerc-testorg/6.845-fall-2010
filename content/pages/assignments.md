@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides problem sets on quantum basics, bounded error quantum
+  polynomial time, quantum algorithms, and quantum lower bounds.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ PROBLEM SETS
 Quantum basics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_assn01))
+({{% resource_link a9f12a81-1bec-c2de-85cd-b0e22c4c2e0c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Quantum basics
 Basic training for the BQP army
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_assn02))
+({{% resource_link c8ee8ec4-0fbb-96ac-657e-5f90224d5d16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Basic training for the BQP army
 Quantum algorithms and lower bounds
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_assn03))
+({{% resource_link b533fcc2-b6ad-f23b-b461-2cc6f0a0b35b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Quantum algorithms and lower bounds
 Quantum lower bounds and more
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_assn04))
+({{% resource_link 96ba5a89-16e9-0a93-f4ea-d1e18e1da746 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

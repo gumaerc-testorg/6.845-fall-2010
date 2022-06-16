@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides an overview of the course project, guidelines on
+  picking a topic for the project, topics from past versions of the course, possible
+  other topics, and a link to several examples of outstanding student projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

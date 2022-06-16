@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, requirements, projects, problem sets, course notes, textbooks, prerequisites,
+  and the schedule of lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -77,7 +80,7 @@ There will be 4-5 problem sets. Problem sets will be due about two weeks after b
 Scribe Notes
 ------------
 
-Notes (taken by the students) from a previous offering of the course are available in the [Lecture Notes]({{< baseurl >}}/pages/lecture-notes) section. We will not follow the 2008 notes exactly this semester, but will follow them for perhaps 70-80% of the course. Since no book exists that covers much of the material, the notes should be an extremely useful resource. However, please be warned that the notes haven't been carefully proofread and contain some errors and omissions.
+Notes (taken by the students) from a previous offering of the course are available in the {{% resource_link 0ae74169-1168-dcc5-4644-05254b3e4264 "Lecture Notes" %}} section. We will not follow the 2008 notes exactly this semester, but will follow them for perhaps 70-80% of the course. Since no book exists that covers much of the material, the notes should be an extremely useful resource. However, please be warned that the notes haven't been carefully proofread and contain some errors and omissions.
 
 Textbooks
 ---------
