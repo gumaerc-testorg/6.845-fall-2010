@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, notes taken by
+  students from the Fall 2008 version of the course, and a set of slides on quantum
+  computing with noninteracting particles.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 0ae74169-1168-dcc5-4644-05254b3e4264
 ---
@@ -35,7 +41,7 @@ LECTURE NOTES
 Quantum basics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec01))
+({{% resource_link c333f002-842c-0443-b3d8-8a19bcf2322a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +53,7 @@ Quantum basics
 More quantum basics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec02))
+({{% resource_link da078dd8-c8d7-7f30-5be1-23cf5425ac23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +65,7 @@ More quantum basics
 Quantum circuits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec03))
+({{% resource_link 4888858e-afba-14b6-aea0-4af31706c528 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +77,7 @@ Quantum circuits
 BQP and classical friends
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec04))
+({{% resource_link 59b32d60-3954-c2f2-2a33-1ffb689706f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +89,7 @@ BQP and classical friends
 Quantum algorithms: Deutsch-Jozsa
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec05))
+({{% resource_link c9021130-e7e8-d56f-da3e-a4fd831b4f3e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +101,7 @@ Quantum algorithms: Deutsch-Jozsa
 Quantum algorithms: Simon's algorithm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec06))
+({{% resource_link a585b231-20e0-a523-7255-554863a06f7f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +113,7 @@ Quantum algorithms: Simon's algorithm
 Shor's algorithm and the hidden subgroup problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec07))
+({{% resource_link a8756102-3f05-ea0a-c693-71d84457b77b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +125,7 @@ Shor's algorithm and the hidden subgroup problem
 Hidden subgroup problem and Grover's algorithm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec08))
+({{% resource_link b3908476-16a1-3a32-391a-b88e662ff034 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +137,7 @@ Hidden subgroup problem and Grover's algorithm
 Grover's algorithm and BBBV
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec09))
+({{% resource_link b2ca7038-3ed1-3fed-5643-e4092ed19b92 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +149,7 @@ Grover's algorithm and BBBV
 Quantum query complexity lower bounds
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec10))
+({{% resource_link cb3396e3-1567-0e77-0282-1be854cf120e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +161,7 @@ Quantum query complexity lower bounds
 More quantum query complexity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec11))
+({{% resource_link e184ebc9-2625-eef1-bc12-aed4875f4e01 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +173,7 @@ More quantum query complexity
 Query complexity and the collision problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec12))
+({{% resource_link c3e70cb7-9f59-f23d-b471-cd1d12ac5aaa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +185,7 @@ Query complexity and the collision problem
 The collision problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec13))
+({{% resource_link 29789d46-0586-709e-cfdc-124e4f76fe7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +197,7 @@ The collision problem
 BQP vs. PH and QMA
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec14))
+({{% resource_link 365d99f2-ff87-bf5f-d2e8-53268f55ece8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +209,7 @@ BQP vs. PH and QMA
 QMA
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec15))
+({{% resource_link f2e01f69-36ab-17d5-b220-fa3a68431fa8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +221,7 @@ QMA
 QMA and variants
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec16))
+({{% resource_link 0159b103-e01a-49b0-c12f-c38b34a1495a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +233,7 @@ QMA and variants
 QIP
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec17))
+({{% resource_link 2c84f703-9a9b-5a8e-9ab8-8f6ae056d1e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +245,7 @@ QIP
 PostBQP
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec18))
+({{% resource_link 975c7a24-232e-7cea-d20c-e585702071c1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +257,7 @@ PostBQP
 Closed timelike curves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec19)) (Courtesy of Joshua Horowitz. Used with permission.)
+({{% resource_link 44674718-c509-c3d6-e2bb-97172cc54888 "PDF" %}}) (Courtesy of Joshua Horowitz. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +269,7 @@ Closed timelike curves
 BQP/qpoly
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec20))
+({{% resource_link f19ff984-ae0f-3e03-3714-e5cf05400fd3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,7 +281,7 @@ BQP/qpoly
 Quantum communication complexity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec21)) (Courtesy of Colin Jia Zheng. Used with permission.)
+({{% resource_link 5d5da2c1-29a0-e562-fa6f-e23a12ce895c "PDF" %}}) (Courtesy of Colin Jia Zheng. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +293,7 @@ Quantum communication complexity
 More quantum communication complexity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec22)) (Courtesy of Colin Jia Zheng. Used with permission.)
+({{% resource_link 49ccdcc2-7d09-8490-4fdf-7592f9f6599c "PDF" %}}) (Courtesy of Colin Jia Zheng. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +305,7 @@ More quantum communication complexity
 Classical simulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec23))
+({{% resource_link b50fa653-5211-3b13-68ac-6e81379c913b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -311,7 +317,7 @@ Classical simulation
 Grab bag
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_845f10_lec24))
+({{% resource_link e31feb25-ad43-0796-f719-7f11ecabfb4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -345,4 +351,4 @@ Student project presentations (cont.)
 {{< anchor "Additional_Slides" >}}{{< /anchor >}}Additional Slides
 ------------------------------------------------------------------
 
-Quantum computing with noninteracting particles ([PDF - 1.0MB]({{< baseurl >}}/resources/mit6_845f10_npc_slides)) (Courtesy of Alex Arkhipov. Used with permission.)
+Quantum computing with noninteracting particles ({{% resource_link cdf95b46-bfbf-5883-9b72-66f53e75408d "PDF - 1.0MB" %}}) (Courtesy of Alex Arkhipov. Used with permission.)

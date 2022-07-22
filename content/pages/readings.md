@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of useful textbooks and journal articles
+  on quantum complexity theory.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: cb96a782-20e0-5c95-851c-accf5fd323d3
 ---
