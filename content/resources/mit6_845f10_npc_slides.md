@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to noninteracting particle
   computation. '
-file: /ol-ocw-studio-app/courses/6-845-quantum-complexity-theory-fall-2010/cdf95b46bfbf58839b7266f53e75408d_MIT6_845F10_npc_slides.pdf
+file: /courses/6-845-quantum-complexity-theory-fall-2010/cdf95b46bfbf58839b7266f53e75408d_MIT6_845F10_npc_slides.pdf
 file_size: 1051637
 file_type: application/pdf
 learning_resource_types:
