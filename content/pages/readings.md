@@ -18,7 +18,7 @@ Nielsen, Michael, and Issac Chuang. _Quantum Computation and Quantum Information
 
 Mermin, David. _Quantum Computer Science: An Introduction_. Cambridge University Press, 2007. ISBN: 9780521876582.
 
-Arora, Sanjeev, and Boaz Barak. {{% resource_link "207657c8-574f-40e1-bbcc-a7b714f21b41" "_Computational Complexity: A Modern Approach_" %}}. Cambridge University Press, 2009. ISBN: 9780521424264.
+Arora, Sanjeev, and Boaz Barak. [_Computational Complexity: A Modern Approach_](http://www.cs.princeton.edu/theory/complexity/). Cambridge University Press, 2009. ISBN: 9780521424264.
 
 Sipser, Michael. _Introduction to the Theory of Computation_. 2nd ed. Course Technology, 2005. ISBN: 9780534950972.
 
@@ -27,16 +27,16 @@ Papers
 
 These papers were not assigned, but may be of interest:
 
-Watrous, John. "{{% resource_link "c191c5df-b371-4fb2-b996-ee084c195c97" "Quantum Computational Complexity" %}}."
+Watrous, John. "[Quantum Computational Complexity](http://arxiv.org/abs/0804.3401)."
 
 Bernstein, Ethan, and Umesh Vazirani. "Quantum Complexity Theory." _SIAM Journal on Computing_ 26 (1997): 1411-1473.
 
 Bennett, Charles, Ethan Bernstein, Gilles Brassard, and Umesh Vazirani. "Strengths and Weaknesses of Quantum Computing." _SIAM Journal on Computing_ 26 (1997): 1510-1523.
 
-Beals, Robert, et al. "{{% resource_link "b78eb469-c48d-4653-8e42-1610098759ef" "Quantum Lower Bounds by Polynomials" %}}."
+Beals, Robert, et al. "[Quantum Lower Bounds by Polynomials](http://arxiv.org/abs/quant-ph/9802049)."
 
-Ambainis, Andris. "{{% resource_link "77a77bce-c473-4eca-b754-9179567fc141" "Quantum Lower Bounds by Quantum Arguments" %}}."
+Ambainis, Andris. "[Quantum Lower Bounds by Quantum Arguments](http://arxiv.org/abs/quant-ph/0002066)."
 
-Watrous, John. "{{% resource_link "da167148-4f93-4ff0-995c-f11119539a98" "Succinct Quantum Proofs for Properties of Finite Groups" %}}."
+Watrous, John. "[Succinct Quantum Proofs for Properties of Finite Groups](http://arxiv.org/abs/cs/0009002)."
 
 Kitaev, Alexei, and John Watrous. "Parallelization, Amplification, and Exponential Time Simulation of Quantum Interactive Proof Systems." _Proceedings of the 32nd ACM Symposium on Theory of Computing_ (2000): 608-617.
