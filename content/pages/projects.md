@@ -13,7 +13,7 @@ uid: bce5adbe-dc45-bef7-1e31-b3f7942e83c0
 Project Examples
 ----------------
 
-Several {{% resource_link "30d5ebc2-7f8c-4301-b728-99a96fd5e93c" "outstanding student projects" %}} are featured on Scott Aaronson's blog.
+Several [outstanding student projects](http://www.scottaaronson.com/blog/?p=515) are featured on Scott Aaronson's blog.
 
 Project Description
 -------------------
@@ -25,7 +25,7 @@ The project can be either a survey of some topic in the quantum complexity theor
 *   Something mentioned in the course that you'd like to understand better
 *   Something not mentioned in the course that you wish had been
 *   Something that combines your own research interests with quantum complexity theory
-*   {{% resource_link "b1f03789-7e20-4caa-bfa9-1746b9b6ee3d" "scholar.google.com" %}}, {{% resource_link "56bc7edc-683d-44e2-a0bb-ba165fab213d" "arxiv.org/find/quant-ph" %}}
+*   [scholar.google.com](http://scholar.google.com/), [arxiv.org/find/quant-ph](http://arxiv.org/find/quant-ph)
 *   The last fifteen years' proceedings of ACM Symposium on Theory of Computing (STOC), IEEE Foundations of Computer Science (FOCS), and IEEE Conference on Computational Complexity (CCC), as well as the list of talks at the annual Quantum Information Processing (QIP) conference
 
 To help get you started, there's a list of topic suggestions at the end of this section. Scott will also be happy to help you with additional suggestions and pointers to the literature. Here is what's expected of you:

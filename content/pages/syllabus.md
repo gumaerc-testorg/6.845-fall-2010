@@ -59,15 +59,15 @@ Nielsen, Michael, and Issac Chuang. *Quantum Computation and Quantum Information
 
 Mermin, David. *Quantum Computer Science: An Introduction*. Cambridge University Press, 2007. ISBN: 9780521876582.
 
-Arora, Sanjeev, and Boaz Barak. {{% resource_link "207657c8-574f-40e1-bbcc-a7b714f21b41" "*Computational Complexity: A Modern Approach*" %}}. Cambridge University Press, 2009. ISBN: 9780521424264.
+Arora, Sanjeev, and Boaz Barak. [*Computational Complexity: A Modern Approach*](http://www.cs.princeton.edu/theory/complexity/). Cambridge University Press, 2009. ISBN: 9780521424264.
 
 Sipser, Michael. *Introduction to the Theory of Computation*. 2nd ed. Course Technology, 2005. ISBN: 9780534950972.
 
 In addition, students might benefit from the following online resources:
 
-Watrous, John. "{{% resource_link "c191c5df-b371-4fb2-b996-ee084c195c97" "Quantum Computational Complexity" %}}."
+Watrous, John. "[Quantum Computational Complexity](http://arxiv.org/abs/0804.3401)."
 
-{{% resource_link "55d55af0-a7ad-4983-8cf8-ee2458fcaf47" "Quantum Computing Since Democritus: Lecture Notes" %}}
+[Quantum Computing Since Democritus: Lecture Notes](http://www.scottaaronson.com/democritus)
 
 ## Prerequisites
 
